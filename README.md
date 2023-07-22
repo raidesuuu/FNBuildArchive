@@ -1,5 +1,5 @@
 # Fortnite Builds (Archive)
-Here's a wild and big Fortnite build archive.
+Here's a big Fortnite build archive.
 
 S0 ~ S20: Everyone at notsamiccs's Fortnite Builds, and Crunnie.<br>
 S21 ~ S25: uploaded by 0729たいがー#2658
@@ -160,24 +160,24 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/20.40.zip|
 
-# Season21
-| Build Version | Donwload Link |
+# Season 21
+| Build | Donwload links |
 | ------------- | ------------- |
 | 21.20-CL-21035704 | https://fn-builds.f5.si/21.20-CL-21035704 |
 | 21.30-CL-21155462 | https://fn-builds.f5.si/21.30-CL-21155462 |
 | 21.40-CL-21407327 | https://fn-builds.f5.si/21.40-CL-21407327 |
 | 21.51-CL-21735703 | https://fn-builds.f5.si/21.51-CL-21735703 |
 
-# Season22
-| Build Version | Donwload Link |
+# Season 22
+| Build | Donwload links |
 | ------------- | ------------- |
 | 22.00-CL-22149829 | https://fn-builds.f5.si/22.00-CL-22149829 |
 | 22.10-CL-22429549 | https://fn-builds.f5.si/22.10-CL-22429549 |
 | 22.20-CL-22600409 | https://fn-builds.f5.si/22.20-CL-22600409 |
 | 22.40-CL-23070899 | https://fn-builds.f5.si/22.40-CL-23070899 |
 
-# Season23
-| Build Version | Donwload Link |
+# Season 23
+| Build | Donwload links |
 | ------------- | ------------- |
 | 23.00-CL-23344627 | https://fn-builds.f5.si/23.00-CL-23344627 |
 | 23.10-CL-23572221 | https://fn-builds.f5.si/23.10-CL-23572221 |
@@ -185,8 +185,8 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 | 23.40-CL-24087481 | https://fn-builds.f5.si/23.40-CL-24087481 |
 | 23.50-CL-24441668 | https://fn-builds.f5.si/23.50-CL-24441668 |
 
-# Season24
-| Build Version | Donwload Link |
+# Season 24
+| Build | Donwload links |
 | ------------- | ------------- |
 | 24.01-CL-24757023 | https://fn-builds.f5.si/24.01-CL-24757023 |
 | 24.10-CL-24903530 | https://fn-builds.f5.si/24.10-CL-24903530 |
@@ -196,8 +196,8 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 | 24.40-CL-25521145 | https://fn-builds.f5.si/24.40-CL-25521145 |
 | 24.40-CL-25595478 | https://fn-builds.f5.si/24.40-CL-25595478 |
 
-# Season25
-| Build Version | Donwload Link |
+# Season 25
+| Build | Donwload links |
 | ------------- | ------------- |
 | 25.00-CL-25909622 | https://fn-builds.f5.si/25.00-CL-25909622 |
 | 25.10-CL-26000959 | https://fn-builds.f5.si/25.10-CL-26000959 |
