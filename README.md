@@ -1,5 +1,9 @@
 # Fortnite Builds (Archive)
 Here's a wild and big Fortnite build archive.
+
+S0~S20: Everyone at notsamiccs's Fortnite Builds, and Crunnie.
+S21~S25: uploaded by 0729たいがー#2658
+
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
