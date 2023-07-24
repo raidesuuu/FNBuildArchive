@@ -85,6 +85,7 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 8.00-CL-5203069	          | N/A       	 | UE4.23            	    |		Use [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)|
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
@@ -114,6 +115,7 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
 | 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.21.zip|
 | 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
+| 12.41-CL-13193885	          | N/A       	 | UE4.25            	    |		Use [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)|
 | 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
@@ -125,6 +127,8 @@ S21 ~ S25: uploaded by 0729たいがー#2658
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 14.00-CL-N/A	               | 27-08-20         	 | UE4.26            	    |		https://drive.google.com/file/d/1txkXxCZBQzmXyWZeQ2F9SNELJR2bcF5w/view?usp=drive_link|
+| 14.30-CL-14456520           | 13-10-20           | UE4.26                 |  Use [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)
 | 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
 | 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://cdn.fnbuilds.services/14.60.rar|
 
